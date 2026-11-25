@@ -1,0 +1,18 @@
+PCB FABRICATION NOTES - diyipcb-reindeer - Revision R1 - 2026-11-25
+Decorative passive badge. Fabricate as TWO SIDED PCB, no electrical assembly.
+Base material: FR-4; nominal finished thickness 1.6 mm; copper: 1 oz each side.
+Surface finish: OSP on all exposed copper. Do not substitute HASL or ENIG.
+Solder mask: Red, both sides. Legend: WHITE ONLY, both sides.
+Profile envelope (centerline): 61.976 x 60.819 mm.
+Use supplied Edge.Cuts Gerber for actual routed profile; NOT a rectangular board.
+Routing tool: 1.0 mm diameter or smaller for concave details; deburr edges.
+One NPTH hanging hole, finished diameter 3.2 mm. Empty PTH file is intentional.
+No electrical connection between top/bottom copper is needed. No plated drill holes.
+F.Mask and B.Mask Gerbers define OPENINGS. Copper artwork is decorative.
+No solder paste, stencil, components, BOM or pick-and-place file required.
+All layers are provided in standard top-view PCB coordinates. Do NOT mirror files.
+Do not add supplier order IDs or remove graphic copper islands / white legend fills.
+Copper-to-edge target >=0.50 mm; legend-to-mask-opening >=0.20 mm.
+Keep OSP surface protected in individual packaging; copper color is illustrative.
+Single design per ZIP; manufacture quantity and any panelization separately as ordered.
+Manufacturing tolerances: standard factory process, subject to CAM confirmation.
